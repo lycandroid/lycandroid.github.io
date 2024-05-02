@@ -1,0 +1,3 @@
+[submodule "tvplayer"]
+	path = tvplayer
+	url = https://github.com/lycandroid/tvplayer
